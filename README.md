@@ -10,4 +10,5 @@ The ChurnQuest analysis reveals that customer churn at Airtel is strongly influe
 
 Through predictive modeling, segmentation, and economic impact assessment, the project demonstrates that proactive customer retention strategies can effectively reduce churn and improve long-term profitability. By focusing on high-risk customer groups, optimizing pricing and service quality, and prioritizing customer experience, Airtel can shift from a reactive approach to a smart, data-driven retention strategy. Ultimately, reducing churn is not just a technical task—it is a strategic investment that strengthens customer loyalty, enhances competitive advantage, and drives sustainable growth.
 
-[1](https://github.com/Archis-Save/Excel03-Telecommunications_ChurnQuest/blob/main/03.PNG)
+![1](https://github.com/Archis-Save/Excel03-Telecommunications_ChurnQuest/blob/main/03.PNG)
+
