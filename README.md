@@ -1,1 +1,12 @@
 # Excel03-Telecommunications_ChurnQuest
+
+The ChurnQuest project focuses on understanding and reducing customer churn at Airtel through data-driven insights. With increasing customer discontinuation affecting revenue and market share, the goal is to analyze behavioral and service-related factors that contribute to churn and provide actionable solutions for retention.
+
+Using customer demographic and usage data, the analysis explores patterns in service charges, call durations, customer service complaints, and plan subscriptions (e.g., international or voicemail plans). Advanced analytical techniques—including statistical modeling, trend analysis, clustering, interaction studies, and economic evaluation—were applied to uncover key insights.
+
+The results help identify high-risk customer segments, critical behavioral triggers of churn, seasonal trends, and the financial consequences of customer loss. These findings enable the company to implement targeted retention strategies, personalize service offerings, and proactively address customer dissatisfaction.
+
+The ChurnQuest analysis reveals that customer churn at Airtel is strongly influenced by usage behavior, customer service interactions, plan subscriptions, call charges, and tenure. Key factors such as frequent service complaints, costly international usage, and lower engagement with value-added services significantly increase churn likelihood. Additionally, newer customers and those with specific usage patterns are more vulnerable, highlighting the need for targeted onboarding and personalized plans.
+
+Through predictive modeling, segmentation, and economic impact assessment, the project demonstrates that proactive customer retention strategies can effectively reduce churn and improve long-term profitability. By focusing on high-risk customer groups, optimizing pricing and service quality, and prioritizing customer experience, Airtel can shift from a reactive approach to a smart, data-driven retention strategy. Ultimately, reducing churn is not just a technical task—it is a strategic investment that strengthens customer loyalty, enhances competitive advantage, and drives sustainable growth.
+
